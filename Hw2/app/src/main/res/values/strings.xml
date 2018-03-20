@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Xin-Zhi Yang</string>
+    <string name="sex">Sex</string>
+    <string name="sex_hint">(Type sex)</string>
+    <string name="age">Age</string>
+    <string name="age_hint">(Type age)</string>
+    <string name="btn_ok">OK</string>
+    <string name="suggestion">Suggestions:</string>
+    <string name="sug_not_hurry">Not hurry</string>
+    <string name="sug_get_married">Get married！</string>
+    <string name="sug_find_couple">Find couple</string>
+    <string name="sex_male">male</string>
+</resources>
