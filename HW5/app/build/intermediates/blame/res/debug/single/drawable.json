@@ -1,0 +1,294 @@
+[
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\samll6a.jpg",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\src\\main\\res\\drawable\\samll6a.jpg"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\samll3.jpg",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\src\\main\\res\\drawable\\samll3.jpg"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img01.jpg",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\src\\main\\res\\drawable\\img01.jpg"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img06.jpg",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\src\\main\\res\\drawable\\img06.jpg"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\samll2a.jpg",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\src\\main\\res\\drawable\\samll2a.jpg"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\samll4.jpg",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\src\\main\\res\\drawable\\samll4.jpg"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img02.jpg",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\src\\main\\res\\drawable\\img02.jpg"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img05.jpg",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\src\\main\\res\\drawable\\img05.jpg"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vr.jpg",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\src\\main\\res\\drawable\\vr.jpg"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\samll5.jpg",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\src\\main\\res\\drawable\\samll5.jpg"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img08.jpg",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\src\\main\\res\\drawable\\img08.jpg"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\samll5a.jpg",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\src\\main\\res\\drawable\\samll5a.jpg"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\samll2.jpg",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\src\\main\\res\\drawable\\samll2.jpg"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img01th.jpg",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\src\\main\\res\\drawable\\img01th.jpg"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img02th.jpg",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\src\\main\\res\\drawable\\img02th.jpg"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\samll1a.jpg",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\src\\main\\res\\drawable\\samll1a.jpg"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img08th.jpg",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\src\\main\\res\\drawable\\img08th.jpg"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img03.jpg",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\src\\main\\res\\drawable\\img03.jpg"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img07th.jpg",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\src\\main\\res\\drawable\\img07th.jpg"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\samll1.jpg",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\src\\main\\res\\drawable\\samll1.jpg"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_light.xml",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\drawable\\tooltip_frame_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\samll4a.jpg",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\src\\main\\res\\drawable\\samll4a.jpg"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img04th.jpg",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\src\\main\\res\\drawable\\img04th.jpg"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img05th.jpg",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\src\\main\\res\\drawable\\img05th.jpg"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img03th.jpg",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\src\\main\\res\\drawable\\img03th.jpg"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img06th.jpg",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\src\\main\\res\\drawable\\img06th.jpg"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vra.jpg",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\src\\main\\res\\drawable\\vra.jpg"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img07.jpg",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\src\\main\\res\\drawable\\img07.jpg"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_dark.xml",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\drawable\\tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img04.jpg",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\src\\main\\res\\drawable\\img04.jpg"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\samll6.jpg",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\src\\main\\res\\drawable\\samll6.jpg"
+    },
+    {
+        "merged": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\samll3a.jpg",
+        "source": "E:\\AndroidAPP\\HW5_GalleryUsingViewAnimation\\app\\src\\main\\res\\drawable\\samll3a.jpg"
+    }
+]
