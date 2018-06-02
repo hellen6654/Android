@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HW10:楊信致</string>
+    <string name="text_name">姓名</string>
+    <string name="text_phone_number">號碼</string>
+    <string name="text_phone_number_type">類型</string>
+    <array name="phone_type">
+        <item>手機</item>
+        <item>家電</item>
+        <item>辦公室</item>
+    </array>
+
+    <string name="btn_submit">增加</string>
+
+    <string name="text_search_name">搜尋</string>
+
+</resources>
