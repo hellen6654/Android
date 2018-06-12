@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">hw8:楊信致</string>
+    <string name="item">項目</string>
+    <string name="date">日期</string>
+    <string-array name="item_list">
+        <item>早餐</item>
+        <item>午餐</item>
+        <item>晚餐</item>
+    </string-array>
+    <string name="spend">金額</string>
+    <string name="input">輸入</string>
+    <string name="record">紀錄</string>
+</resources>
